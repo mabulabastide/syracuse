@@ -1,0 +1,2 @@
+# syracuse
+syracuse password gen
